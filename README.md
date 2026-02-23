@@ -1,29 +1,30 @@
   <div align="center">
 
-  <img src="https://i.imgur.com/dIWEn4s.jpeg" width="100%" style="border-radius: 10px;"/>
+  <img src="https://files.catbox.moe/tkt4ym.jpg" width="100%" style="border-radius: 10px;"/>
 
 </div>
 
-  # 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 𝐕𝟐 𝐁𝐘 𝐒𝐀𝐉𝐄𝐄𝐁 𝐀𝐇𝐀𝐌𝐄𝐃
+  # 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 𝐕𝟐 
+𝐌𝐎𝐃𝐈𝐅𝐈𝐄𝐃 𝐁𝐘 𝐀𝐋𝐕𝐈-𝐊𝐈𝐍𝐆
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=MESSENGER+MULTI-DEVICE+BOT;FUN+GOAT+BOT+;POWERFUL+ADMIN+TOOLS;24%2F7+ACTIVE+SERVICE;This+repository+is;controlled+by+SAJEEB-AHAMED.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=MESSENGER+MULTI-DEVICE+BOT;FUN+GOAT+BOT+;POWERFUL+ADMIN+TOOLS;24%2F7+ACTIVE+SERVICE;This+repository+is;controlled+by+ALVI-KING.)](https://git.io/typing-svg)
 
   <p align="center">
-    <a href="https://github.com/sajeeb-ahamed/GOAT-BOT-V2">
-      <img title="Stars" src="https://img.shields.io/github/stars/sajeeb-ahamed/GOAT-BOT-V2?color=cyan&style=for-the-badge&logo=github">
+    <a href="https://github.com/alvi-king/GOAT-BOT-V2">
+      <img title="Stars" src="https://img.shields.io/github/stars/alvi-king/GOAT-BOT-V2?color=cyan&style=for-the-badge&logo=github">
     </a>
-    <a href="https://github.com/sajeeb-ahamed/GOAT-BOT-V2/forks">
-      <img title="Forks" src="https://img.shields.io/github/forks/sajeeb-ahamed/GOAT-BOT-V2?color=cyan&style=for-the-badge&logo=github">
+    <a href="https://github.com/alvi-king/GOAT-BOT-V2/forks">
+      <img title="Forks" src="https://img.shields.io/github/forks/alvi-king/GOAT-BOT-V2?color=cyan&style=for-the-badge&logo=github">
     </a>
-    <a href="https://github.com/sajeeb-ahamed/GOAT-BOT-V2">
-      <img title="Repo Size" src="https://img.shields.io/github/repo-size/sajeeb-ahamed/GOAT-BOT-V2?style=for-the-badge&color=cyan">
+    <a href="https://github.com/alvi-king/GOAT-BOT-V2">
+      <img title="Repo Size" src="https://img.shields.io/github/repo-size/alvi-king/GOAT-BOT-V2?style=for-the-badge&color=cyan">
     </a>
     <a href="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg">
        <img src="https://img.shields.io/badge/VISITORS-Active-blue?style=for-the-badge&logo=google-analytics">
     </a>
     <p align="center">
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃<br>
- <img src="https://komarev.com/ghpvc/?username=sajeeb-ahamed&label=Visitors&color=blue&style=flat" alt="Visitors">
+ <img src="https://komarev.com/ghpvc/?username=alvi-king&label=Visitors&color=blue&style=flat" alt="Visitors">
   </p>
 
   <hr>
@@ -31,7 +32,7 @@
   <a href="https://www.youtube.com/@SAUniqueBro">
     <img src="https://img.shields.io/badge/WATCH%20TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video">
   </a>
-  <a href="https://github.com/sajeeb-ahamed/GOAT-BOT-V2/fork">
+  <a href="https://github.com/alvi-king/GOAT-BOT-V2/fork">
     <img src="https://img.shields.io/badge/FORK%20NOW-333?style=for-the-badge&logo=github&logoColor=white" alt="Fork Repo">
   </a>
 
@@ -44,6 +45,7 @@
 > 
 > *Based on the original work by [Goat-Bot-v2](https://github.com/ntkhang03/Goat-Bot-V2)*
 
+Modified By Alvi-King
 ---
 
 ### ❖ **DEPLOYMENT ZONES**
@@ -53,7 +55,7 @@
     <tr>
       <td align="center" width="150"><img src="https://img.shields.io/badge/HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white" width="100%"></td>
       <td align="center" width="300">
-        <a href="https://dashboard.heroku.com/new-app?template=https://github.com/sajeeb-ahamed/GOAT-BOT-V2">
+        <a href="https://dashboard.heroku.com/new-app?template=https://github.com/alvi-king/GOAT-BOT-V2">
           <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
         </a>
       </td>
@@ -61,7 +63,7 @@
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/REPLIT-F26207?style=for-the-badge&logo=replit&logoColor=white" width="100%"></td>
       <td align="center">
-        <a href="https://repl.it/github/sajeeb-ahamed/GOAT-BOT-V2">
+        <a href="https://repl.it/github/alvi-king/GOAT-BOT-V2">
           <img src="https://img.shields.io/badge/DEPLOY%20ON%20REPLIT-black?style=flat-square&logo=replit" alt="Deploy to Replit">
         </a>
       </td>
@@ -69,7 +71,7 @@
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/KOYEB-121212?style=for-the-badge&logo=koyeb&logoColor=white" width="100%"></td>
       <td align="center">
-        <a href="https://app.koyeb.com/services/deploy?type=git&repository=https://github.com/sajeeb-ahamed/GOAT-BOT-V2&branch=main">
+        <a href="https://app.koyeb.com/services/deploy?type=git&repository=https://github.com/alvi-king/GOAT-BOT-V2&branch=main">
           <img src="https://img.shields.io/badge/DEPLOY%20ON%20KOYEB-blue?style=flat-square&logo=koyeb" alt="Deploy to Koyeb">
         </a>
       </td>
@@ -132,7 +134,7 @@ jobs:
 ❖ COMMUNITY & SUPPORT
 <div align="center">
 
-<a href="https://wa.me/966505748978?text=ᴀssᴀʟᴀᴍᴜ ᴀʟᴀɪᴋᴜᴍ+𝙰𝙻𝚅𝙸+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ʙʀᴏᴛʜᴇʀ!!">
+<a href="https://wa.me/966505748978?text=ᴀssᴀʟᴀᴍᴜ ᴀʟᴀɪᴋᴜᴍ+ᴀʟᴠɪ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ʙʀᴏᴛʜᴇʀ!!">
 <img src="https://img.shields.io/badge/WHATSAPP-SUPPORT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
@@ -239,7 +241,7 @@ Login credentials are set in `config.json`:
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute this software, but please maintain the original credits.
 
-✨ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:- 𝗦𝗔𝗝𝗘𝗘𝗕 𝗔𝗛𝗔𝗠𝗘𝗗  
+✨ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:- 𝗔𝗟𝗩𝗜-𝗞𝗜𝗡𝗚  
 📜 𝗢𝗿𝗶𝗴𝗶𝗻𝗮𝗹 𝗖𝗿𝗲𝗮𝘁𝗼𝗿:- 𝗡𝗧𝗞𝗛𝗔𝗡𝗚
 
 ---
@@ -250,18 +252,20 @@ If you find this project helpful:
 - ⭐ Star this repository
 - 🍴 Fork and contribute
 - 📢 Share with others
+
 - [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-SAUNIQUE%20BRO-red?style=for-the-badge&logo=youtube)](https://youtube.com/@SAUniqueBro?si=7wqJsdLBRMvWkWOU)
 - [![Follow Facebook Page](https://img.shields.io/badge/Follow-Facebook%20Page-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100001609058878)
 - [![Join Telegram](https://img.shields.io/badge/Join%20Telegram-MR%20ALVI%20BRO-blue?style=for-the-badge&logo=telegram)](https://t.me/MRALVIBRO)
-- [![Follow @SAJEE-AHAMED](https://img.shields.io/github/followers/sajeeb-ahamed?label=Follow%20%40GOAT-BOT-V2&style=social)](https://github.com/sajeeb-ahamed)
+- [![Follow @ALVI-KING](https://img.shields.io/github/followers/alvi-king?label=Follow%20%40GOAT-BOT-V2&style=social)](https://github.com/alvi-king)
 
 ---
 
-—͟͟͞͞𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 𝐕𝟐 𝐁𝐘 𝐒𝐀𝐉𝐄𝐄𝐁 𝐀𝐇𝐀𝐌𝐄𝐃
+—͟͟͞͞𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 𝐕𝟐
+
 </div>
 <div align="center">
-Made with ❤️ by SAJEEB BOT TEAM.
-> Release Date : 28/01/2026 at 12.00 AM.
+Made with ❤️ by ALVI ISLAM.
+> Release Date : 23/02/2026 at 5.00 PM.
 
 
 
